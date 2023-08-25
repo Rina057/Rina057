@@ -1,5 +1,7 @@
-### Hi there 👋
-
+# Halo semua!👋
+Perkenalkan nama saya **Nisrina Nabilamustika Sakti**.\
+Saya seorang **mahasiswa** semester 5 yang sedang mengikuti program **Bangkit 2023**.\
+Salam kenal semua :D
 <!--
 **Rina057/Rina057** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
