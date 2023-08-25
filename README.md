@@ -1,7 +1,14 @@
-# Halo semua!👋
-Perkenalkan nama saya **Nisrina Nabilamustika Sakti**.\
-Saya seorang **mahasiswa** semester 5 yang sedang mengikuti program **Bangkit 2023**.\
-Salam kenal semua :D
+# Hi everyone!👋
+My name is **Nisrina Nabilamustika Sakti**.\
+I'm a 5th semester **student** who is participating in **Bangkit 2023** program.\
+Nice to meet you all :D
+
+<p align="left">
+<a href="https://github.com/Rina057">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rina057&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rina057&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 <!--
 **Rina057/Rina057** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
